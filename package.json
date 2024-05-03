@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Email API",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/Lobo1308/EmailApi "
+  },
+  "author": "Bukhari",
+  "license": "ISC"
+}
